@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bimeila.simulateearth.com/sitemap.xml
